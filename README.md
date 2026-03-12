@@ -450,17 +450,28 @@ A high-performance, real-time civic issue management platform bridging citizens 
 
 <h2 align="center">🏆 &nbsp; ACHIEVEMENT VAULT &nbsp; 🏆</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,30&height=3" width="100%" />
 
-<br/>
+### 🚀 Project Achievements
+- 🧬 **TumorInsight** – Developed an AI-powered medical image enhancement and tumor analysis system using machine learning and computer vision.
+- 👨‍💻 **Nextgen-Nerds** – Built a developer collaboration platform for sharing projects and learning together.
+- 🏛 **CivicStream** – Created a civic issue reporting platform designed to improve community problem reporting and transparency.
+- 🧠 **Final-Round** – Designed a technical preparation platform focused on coding and interview readiness.
 
-<div align="center">
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=VanjinNathan&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="96%" />
+### 🧠 Skill Milestones
+- 💻 Built multiple **AI and Machine Learning projects using Python**.
+- 🌐 Developed **full-stack web applications** using modern web technologies.
+- 📊 Implemented **data processing and machine learning pipelines** for real-world datasets.
+- ⚙️ Experienced in **Python, C++, JavaScript, HTML, CSS, React, Angular, and Streamlit**.
+- 🚀 Continuously learning and building projects in **AI, ML, and Software Development**.
 
-</div>
+---
 
-<br/>
+### ⭐ GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vanjinathan23&theme=algolia&margin-w=10&margin-h=10"/>
+</p>
 
 <!-- ══════════════════════════════════ DYNAMIC QUOTE ══════════════════════════════════════ -->
 
