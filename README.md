@@ -177,7 +177,7 @@ if __name__ == "__main__":
 
 **⟨ Frameworks ⟩**
 
-<img src="https://skillicons.dev/icons?i=react,angular,flask&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,angular" />
 &nbsp;
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
