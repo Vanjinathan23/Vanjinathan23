@@ -636,7 +636,7 @@ Open Source · Ideas
 <sub>
 
 Crafted with intent and too much ☕ in Chennai, India 🇮🇳
-`© Vanjinathan S · VanjinNathan · v2025.1` · ⭐ Star a repo if it sparked something
+`© Vanjinathan S · VanjiNathan23 · v2025.1` · ⭐ Star a repo if it sparked something
 
 </sub>
 
