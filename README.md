@@ -72,10 +72,10 @@
 ```python
 #!/usr/bin/env python3
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# developer_profile.py · VanjinNathan
+# developer_profile.py · VanjiNathan
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-class VanjinnathanS:
+class VanjiNathanS:
     """
     Student Developer & AI Builder
     Operating from Chennai, India
@@ -83,7 +83,7 @@ class VanjinnathanS:
 
     identity = {
         "name"     : "Vanjinathan S",
-        "alias"    : "VanjinNathan",
+        "alias"    : "VanjiNathan",
         "base"     : "Chennai, Tamil Nadu",
         "mission"  : "Build AI that changes lives",
     }
@@ -106,7 +106,7 @@ class VanjinnathanS:
         return "Code. Learn. Build. Repeat."
 
 if __name__ == "__main__":
-    me = VanjinnathanS()
+    me = VanjiNathanS()
     print(me.life_motto())
 ```
 
