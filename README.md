@@ -187,7 +187,7 @@ if __name__ == "__main__":
 
 **⟨ Tools ⟩**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </td>
 </tr>
