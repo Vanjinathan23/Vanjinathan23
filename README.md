@@ -434,13 +434,6 @@ A high-performance, real-time civic issue management platform bridging citizens 
 <br/><br/>
 
 <!-- Snake contribution animation -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vanjinathan23/Vanjinathan23/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-</div>
 
 <br/>
 
@@ -468,10 +461,7 @@ A high-performance, real-time civic issue management platform bridging citizens 
 
 ---
 
-### ⭐ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vanjinathan23&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
+
 
 <!-- ══════════════════════════════════ DYNAMIC QUOTE ══════════════════════════════════════ -->
 
