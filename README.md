@@ -518,8 +518,8 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e1a" />
 </a>
 &nbsp;
-<a href="mailto:vanjinathan@example.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Line-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e1a" />
+<a href="vanjinathanvanji925@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop_a_Line-ff6b35?style=for-the-badge&logo=&logoColor=white&labelColor=0a0e1a" />
 </a>
 &nbsp;
 
