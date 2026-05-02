@@ -510,11 +510,11 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br/>
 
-<a href="https://github.com/VanjinNathan">
+<a href="https://github.com/Vanjinathan23">
   <img src="https://img.shields.io/badge/GitHub-Follow_@VanjinNathan-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/vanjinathan-s">
+<a href="https://www.linkedin.com/in/vanjivanjinathan">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e1a" />
 </a>
 &nbsp;
@@ -522,9 +522,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/Email-Drop_a_Line-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e1a" />
 </a>
 &nbsp;
-<a href="https://twitter.com/VanjinNathan">
-  <img src="https://img.shields.io/badge/Twitter-@VanjinNathan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0e1a" />
-</a>
+
 
 <br/><br/>
 
