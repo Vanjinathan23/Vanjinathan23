@@ -374,49 +374,7 @@ A high-performance, real-time civic issue management platform bridging citizens 
 
 <br/>
 
-<!-- ══════════════════════════════════ GITHUB STATS ═══════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,30&height=3" width="100%" />
-
-<h2 align="center">📡 &nbsp; GITHUB INTELLIGENCE DASHBOARD &nbsp; 📡</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,30&height=3" width="100%" />
-
-<br/>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VanjinNathan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&icon_color=00e5ff&text_color=64b5f6&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanjinNathan&theme=github-dark-blue&hide_border=true&background=0a0e1a&stroke=00e5ff&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff&sideLabels=64b5f6&dates=64b5f6&border_radius=12" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanjinNathan&layout=donut&theme=github_dark&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&text_color=64b5f6&border_radius=12&langs_count=8" />
-&nbsp;&nbsp;
-<img width="53%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanjinNathan&theme=github_dark" />
-
-</div>
-
-<br/>
-
-<!-- ═════════════════════════════════ CONTRIBUTION GRAPH ══════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,30&height=3" width="100%" />
-
-<h2 align="center">🌐 &nbsp; CONTRIBUTION GRID &nbsp; 🌐</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,30&height=3" width="100%" />
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanjinNathan&bg_color=0a0e1a&color=00e5ff&line=00e5ff&point=64b5f6&area=true&area_color=00e5ff&hide_border=true&radius=12&custom_title=VanjinNathan%20·%20Contribution%20Activity" width="96%" />
-
-<br/><br/>
-
-<!-- Snake contribution animation -->
 
 <br/>
 
